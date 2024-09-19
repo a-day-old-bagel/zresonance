@@ -1,0 +1,3 @@
+[submodule "libs/resonance-audio"]
+	path = libs/resonance-audio
+	url = ../../a-day-old-bagel/resonance-audio
